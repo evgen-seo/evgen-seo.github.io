@@ -1,0 +1,7 @@
+User-agent: * 
+Disallow: /404.html
+Disallow: /disclaimer.html
+Disallow: /privacy-policy.html
+Disallow: /*utm_source=
+Host: https://evgen-seo.githhub.io
+Sitemap: https://evgen-seo.githhub.io/sitemap.xml
